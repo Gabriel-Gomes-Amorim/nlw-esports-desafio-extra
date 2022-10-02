@@ -5,7 +5,7 @@
 
 Projeto construído do evento Next Level Week da Rockeatseat.
 
-[Clique aqui para acessar](https://gabrielgomes99.github.io/NLW-eSports---Desafio-Extra/)
+[Clique aqui para acessar](https://gabriel-gomes-amorim.github.io/NLW-eSports---Desafio-Extra/)
 
 ## Tecnologias
 
